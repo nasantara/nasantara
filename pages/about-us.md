@@ -8,9 +8,11 @@ permalink: /about-us/
 
 **Who are we?**
 
+![nasantarateam](https://user-images.githubusercontent.com/114873886/193474969-b904b120-7c6e-42ec-bf03-b33a9954bec4.jpg)
+
 Hello!
 
-We are [*NASANTARA Team*] We, young Indonesian educators, are enlightened by NASA's Next-Gen STEM. It inspired us to design learning materials to motivate students and teachers holistically. 
+We are young Indonesian educators, who are enlightened by NASA's Next-Gen STEM. It inspired us to design learning materials to motivate students and teachers holistically. 
 
 **What are we working on?**
 
