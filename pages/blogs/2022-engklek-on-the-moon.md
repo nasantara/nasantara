@@ -10,9 +10,7 @@ categories:
     - science
 tags:
     - blog
-
-image:
-    title: hopscotch.jpg
+    
 ---
 
 
