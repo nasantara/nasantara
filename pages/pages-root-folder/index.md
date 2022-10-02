@@ -11,17 +11,17 @@ widget1:
   title: "Playing Engklek on the Moon!"
   url: 'http://nasantara.github.io/nasantara/blogs/engklek-on-the-moon'
   image: hopscotch.jpg
-  text: 'Anak dapat memahami informasi terkait peluncuran Roket NASA'
+  text: 'Students could decipher the concept of gravity through playing engklek on the moon'
 widget2:
   title: "Rocket Science"
   url: 'http://nasantara.github.io/nasantara/blogs'
-  text: 'Anak dapat memahami informasi terkait peluncuran Roket NASA'
+  text: 'Students could demonstrate how rocket works through egrang and backyard experiments'
   image: rocketscience.jpg
 widget3:
   title: "Human Adaptability"
   url: 'https://nasantara.github.io/nasantara/blogs'
   image: humanadaptability.jpg
-  text: 'Anak dapat memahami informasi terkait peluncuran Roket NASA'
+  text: 'students could recognize the concept of adaptability through kucing dan tikus traditional game'
 #
 # Use the call for action to show a button on the frontpage
 #
