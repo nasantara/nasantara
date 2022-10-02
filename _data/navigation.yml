@@ -1,3 +1,6 @@
+- title: "Home"
+  url: "nasantara/"
+  side: left
 
 - title: "About us"
   url: "/about-us"
