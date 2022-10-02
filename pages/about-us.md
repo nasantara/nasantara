@@ -7,8 +7,8 @@ permalink: /about-us/
 ---
 
 **Who are we?**
+![nasantarateam](https://user-images.githubusercontent.com/114873886/193475570-1c0b16ea-8984-4ee3-9cae-062604f64bf5.jpg)
 
-![nasantarateam](https://user-images.githubusercontent.com/114873886/193474969-b904b120-7c6e-42ec-bf03-b33a9954bec4.jpg)
 
 Hello!
 
