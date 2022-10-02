@@ -6,13 +6,6 @@
   url: "/about-us"
   side: left
 
-- title: "Coming Soon"
-  url: "/coming-soon/"
-  side: left
-  dropdown:
-  - title: "Age 13 - 15"
-    url: "/high-school/"
-
 - title: "Blog"
   url: "/blog/"
   side: left
