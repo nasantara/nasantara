@@ -42,7 +42,7 @@ urlimg: https://nasantara.github.io/nasantara/images/
 
 
 # Logo size is 600x80 pixels
-logo: "https://nasantara.github.com/nasantara/blob/gh-pages/images/header-nasantara.jpg"
+logo: "logo.png"
 
 # Plugins
 plugins:
