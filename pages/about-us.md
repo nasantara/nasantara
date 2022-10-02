@@ -7,7 +7,6 @@ permalink: /about-us/
 ---
 
 
-**Who are we?**
 
 <img width="760" alt="nasantarateama" src="https://user-images.githubusercontent.com/114873886/193481554-d0d796f6-eb87-446f-bf46-48bb53969dc2.png">
 <img width="760" alt="nasantarateamb" src="https://user-images.githubusercontent.com/114873886/193481556-659451d7-bff1-4241-ac66-2262c705c3af.png">
