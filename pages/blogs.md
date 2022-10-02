@@ -18,9 +18,15 @@ Hello! Here are list of our instructional design materials
 
 *Coming Soon*
 
-**2. Force & Motion: Backyard Rocket Launch**
+
 ![forcemotion](https://user-images.githubusercontent.com/114873886/193479944-e2e143b4-50bb-4974-b22c-2d74c3a6e016.png)
+**2. Force & Motion: Backyard Rocket Launch**
+- Grade 5 SD - Force & Motion
+- Kurikulum 2013 Basic Competency (KD): 
+- 4.4 Presenting experimental results about the relationship between force and motion.
 
-
-**3. Adapting to Various Surroundings**
 ![Adaptinghuman](https://user-images.githubusercontent.com/114873886/193479948-f819fcf1-b2ae-4107-bc5c-86792e3da023.png)
+**3. Adapting to Various Surroundings**
+- Grade 6 SD - Living Being & its Adaptability
+- Kurikulum 2013 Basic Competency (KD): 
+- 4.3 Presenting work on how living things adapt with the environment, through research of various sources.
