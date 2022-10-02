@@ -9,7 +9,9 @@ permalink: /about-us/
 
 **Who are we?**
 
-![nasantarateam](https://user-images.githubusercontent.com/114873886/193475570-1c0b16ea-8984-4ee3-9cae-062604f64bf5.jpg)
+<img width="760" alt="nasantarateama" src="https://user-images.githubusercontent.com/114873886/193481554-d0d796f6-eb87-446f-bf46-48bb53969dc2.png">
+<img width="760" alt="nasantarateamb" src="https://user-images.githubusercontent.com/114873886/193481556-659451d7-bff1-4241-ac66-2262c705c3af.png">
+
 
 <p>Hello!</p>
 
