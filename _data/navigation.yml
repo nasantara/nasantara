@@ -1,5 +1,5 @@
 - title: "Teaching Materials"
-  url: "/nasantara"
+  url: "/teaching-materials"
   side: left
 
 - title: "About us"
@@ -20,10 +20,12 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: "Contact"
+  url: "/contact/"
+  side: left
+
 - title: "Search"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+
