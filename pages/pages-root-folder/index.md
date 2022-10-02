@@ -9,7 +9,7 @@ header:
   image_fullwidth: header-nasantara.jpg
 widget1:
   title: "Playing Engklek on the Moon!"
-  url: 'http://nasantara.github.io/nasantara/blogs'
+  url: 'http://nasantara.github.io/nasantara/blogs/engklek-on-the-moon'
   image: hopscotch.jpg
   text: 'Anak dapat memahami informasi terkait peluncuran Roket NASA'
 widget2:
