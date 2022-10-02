@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header-nasantara.jpg
 widget1:
   title: "Playing Engklek on the Moon!"
   url: 'http://nasantara.github.io/blog/playing-engklek-on-the-moon'
