@@ -6,7 +6,7 @@ url: /about-us/
 permalink: /about-us/
 ---
 
-***About Us**
+***About Us***
 
 **Who are we?**
 
