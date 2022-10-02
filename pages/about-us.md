@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 title: 'About Us'
 image: nasantarateam.jpg
 url: /about-us/
 permalink: /about-us/
 ---
 
-***About Us***
 
 **Who are we?**
 
@@ -14,7 +13,9 @@ permalink: /about-us/
 
 <p>Hello!</p>
 
-<p>We are young Indonesian educators, who are enlightened by NASA's Next-Gen STEM. It inspired us to design learning materials to motivate students and teachers holistically. </p>
+<p>We are young Indonesian educators, who are enlightened by NASA's Next-Gen STEM. 
+It inspired us to design learning materials to motivate students and teachers holistically. </p>
+
 
 **What are we working on?**
 
