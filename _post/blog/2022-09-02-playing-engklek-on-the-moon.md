@@ -15,7 +15,6 @@ image:
 3. ...name the big *gallery-image.jpg*.
 4. Place them in the *images*-folder.
 
-
 ### Step 2
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-ZaPUQdLPw0kjNclQI8_AZQUNg9K43rgitAHMqrMpxEhFOJbTcT-H55MUn6u9P9dA80cuZtrF5zRq/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
