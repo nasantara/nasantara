@@ -38,11 +38,11 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: ![Credits by Unsplash]({{ https://github.com/nasantara/nasantara/blob/gh-pages/images/nasantara.jpg }}nasantara.jpg)
+urlimg: https://nasantara.github.io/images/
 
 
 # Logo size is 600x80 pixels
-logo: "https://github.com/nasantara/nasantara/blob/gh-pages/images/header-nasantara_600x80.jpg"
+logo: "https://github.com/nasantara/nasantara/blob/gh-pages/images/header-nasantara.jpg"
 
 # Plugins
 plugins:
