@@ -1,4 +1,4 @@
-- menu_name: "Dankeschön"
+- menu_name: "Terima Kasih"
 
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
@@ -19,3 +19,13 @@
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
   title: "Using Backstretch by Scott Robbin"
+  
+- name: "NASA Space Challenge"
+  url: "https://2022.spaceappschallenge.org/challenges/2022-challenges/steam/teams/nasantara/project"
+  class: "sitemap-link"
+  title: "2022 Space App Challenge"
+  
+- name: "Penn GSE"
+  url: "https://www.gse.upenn.edu"
+  class: "sitemap-link"
+  title: "2022 Space App Challenge"
