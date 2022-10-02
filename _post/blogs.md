@@ -2,8 +2,8 @@
 layout: frontpage
 title: 'Hello'
 image: humanadaptability.jpg
-link: /blogs/
-permalink: /blogs/
+link: /blogs
+permalink: /blogs
 ---
 
 Hello! Here are list of our instructional design materials
