@@ -2,6 +2,7 @@
 layout: page
 subheadline:  "Teaching Materials"
 title:  "Playing Engklek on The Moon"
+url: 'https://nasantara.github.io/blog/playing-engklek-on-the-moon'
 teaser: "How does it feel to play Engklek on the Moon?"
 categories:
     - teaching materials
