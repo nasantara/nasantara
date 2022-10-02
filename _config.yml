@@ -42,7 +42,7 @@ urlimg: ![Credits by Unsplash]({{ https://github.com/nasantara/nasantara/blob/gh
 
 
 # Logo size is 600x80 pixels
-logo: ""
+logo: "https://github.com/nasantara/nasantara/blob/gh-pages/images/header-nasantara.jpg"
 
 # Plugins
 plugins:
