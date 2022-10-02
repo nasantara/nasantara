@@ -29,6 +29,6 @@ callforaction:
   style: alert
 permalink: /index.html
 #
-homepage: false
+homepage: true
 ---
 
